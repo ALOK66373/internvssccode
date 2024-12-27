@@ -21,6 +21,7 @@ Education and Outreach:
 Providing a visual and computational tool for teaching astronomy and data science.
 
 Advantages:
+
 Efficiency: Automates the tedious process of manual object detection in astronomical data.
 
 Scalability: Handles large datasets, essential for modern astronomical surveys.
