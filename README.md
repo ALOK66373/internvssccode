@@ -22,8 +22,11 @@ Providing a visual and computational tool for teaching astronomy and data scienc
 
 Advantages:
 Efficiency: Automates the tedious process of manual object detection in astronomical data.
+
 Scalability: Handles large datasets, essential for modern astronomical surveys.
+
 Accuracy: Combines statistical and image processing techniques to enhance detection reliability.
+
 Accessibility: Outputs data in user-friendly formats and integrates visual feedback for validation.
 
 Interning at ISRO VSSC excites me, as it would allow me to apply these skills to real-world challenges in space research. This pipeline can be directly utilized to support ISRO’s missions, such as processing data from telescopes or space instruments. My passion for astrophysics and data science, coupled with my technical expertise, aligns with ISRO’s vision of innovation and exploration. Joining ISRO would be an invaluable opportunity to contribute to cutting-edge projects and further develop my understanding of space systems and scientific discovery.
